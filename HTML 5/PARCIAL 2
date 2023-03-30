@@ -1,0 +1,198 @@
+<html>
+    <head>
+        <title> ACTIVIDAD </title>
+        <meta>
+        <script></script>
+    </head>
+    
+    <p><a href="#"><label style="border-radius: 5px; background: #ce2032; border-color:#ce2032;  height:44px; color: white; width: 152px; text-align: center; font-size: 16px; padding: 10px 0;">Home \ Products \ Company \ Blog</label> 
+    </a></p>
+
+<body>
+    
+    <table border="3px" solid , BgColor="">
+       
+
+        <tr BgColor="Grey">
+            <ul>
+            <th rowspan="2"  colspan="4" ><img src="https://th.bing.com/th/id/R.d7e104d5cbdfe255a3349f8fd931d1fa?rik=QKvRuG4A5W1arQ&pid=ImgRaw&r=0" width="100px" height="50px"></th>
+            <th rowspan="2"  colspan="4" ><a href="https://docs.github.com/es/apps/creating-github-apps/creating-github-apps/about-apps"><li>¿Que es?</li></a></th>
+            <th rowspan="2"  colspan="4" ><a href="https://docs.github.com/es/apps/creating-github-apps/creating-github-apps/about-apps"><li>Funciones</li></a></th>
+            <th rowspan="2"  colspan="4" ><a href="https://docs.github.com/es/apps/creating-github-apps/creating-github-apps/about-apps"><li>Historia</li></a></th>
+            <th rowspan="2"  colspan="4" ><a href="https://docs.github.com/es/apps/creating-github-apps/creating-github-apps/about-apps"><li>Utilidades</li></a></th>
+            <th rowspan="2"  colspan="4" ><a href="https://docs.github.com/es/apps/creating-github-apps/creating-github-apps/about-apps"><li>Apps compatibles</li></a></th>
+            <th rowspan="2"  colspan="4" ><a href="https://docs.github.com/es/apps/creating-github-apps/creating-github-apps/about-apps"><li>More Info</li></a></th>
+            </ul>
+         </tr>
+
+        <tr></tr>
+         
+         <th rowspan="2" colspan="8">
+            <a href="https://thedigitalmike.com/un-banner-con-imagen-y-texto/"> Enlace 1 </a>
+         </th>
+
+         <th rowspan="16" colspan="20">
+            <img src="https://th.bing.com/th/id/R.d7e104d5cbdfe255a3349f8fd931d1fa?rik=QKvRuG4A5W1arQ&pid=ImgRaw&r=0" width="500px" height="250px">
+         </th>
+         <tr></tr>
+         <th rowspan="2" colspan="8">
+            <a href="https://thedigitalmike.com/un-banner-con-imagen-y-texto/"> Enlace 2 </a>
+         </th>
+         <tr></tr>
+         <th rowspan="2" colspan="8">
+            <a href="https://thedigitalmike.com/un-banner-con-imagen-y-texto/"> Enlace 3 </a>
+         </th>
+         <tr></tr>
+         <th rowspan="2" colspan="8">
+            <a href="https://thedigitalmike.com/un-banner-con-imagen-y-texto/"> Enlace 4 </a>
+         </th>
+        
+
+         <tr></tr>
+
+         <th rowspan="2" colspan="8">
+            <a href="https://thedigitalmike.com/un-banner-con-imagen-y-texto/"> Enlace 5 </a>
+         </th>
+
+         <tr></tr>
+         <th rowspan="2" colspan="8">
+            <a href="https://thedigitalmike.com/un-banner-con-imagen-y-texto/"> Enlace 6 </a>
+         </th>
+         <tr></tr>
+         <th rowspan="2" colspan="8">
+            <a href="https://thedigitalmike.com/un-banner-con-imagen-y-texto/"> Enlace 7 </a>
+         </th>
+         <tr></tr>
+
+         <th rowspan="2" colspan="8">
+            <a href="https://thedigitalmike.com/un-banner-con-imagen-y-texto/"> Enlace 8 </a>
+         </th>
+        
+
+         <tr></tr>
+
+         <tr>
+            <th rowspan="2" colspan="7">
+                <table border="3px" solid , BgColor="">
+                    <tr BgColor="Blue">
+                        <th rowspan="2" colspan="4">¿Que es?</th>
+                        <tr></tr>
+                        <th rowspan="2"  colspan="4" ><img src="https://i0.wp.com/www.ability.com.au/wp-content/uploads/2020/08/excitingidea.png?fit=512%2C512&ssl=1" width="80px" height="40px"></a></th>
+                    
+                        <tr></tr>
+                        
+                            <th rowspan="2"  colspan="4" font-size="10px">Es una plataforma de desarrollo colaborativo de software para alojar codigos</th>
+                        
+                        <tr></tr>
+
+                        <th rowspan="2" colspan="4"><a href="https://www.google.com/?hl=es">Obten mas informacion</a></th>
+                            <tr></tr>
+                            <th rowspan="2" colspan="4"><a href="https://www.google.com/?hl=es"><button>Enviar</button></a></th>
+                     </tr>
+                     
+                 </table>
+            </th>
+
+            <th rowspan="2" colspan="7">
+                <table border="3px" solid , BgColor="">
+                    <tr BgColor="Blue">
+                        <th rowspan="2" colspan="4">Funciones</th>
+                        <tr></tr>
+
+                        <th rowspan="2"  colspan="4" ><img src="https://image.freepik.com/vector-gratis/ilustracion-personajes-sosteniendo-pinones_53876-40798.jpg" width="80px" height="40px"></a></th>
+                    
+                        <tr></tr>
+                        
+                            <th rowspan="2"  colspan="4" font-size="10px">GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git.<a href="https://docs.github.com/es/apps/creating-github-apps/creating-github-apps/about-apps"></a></th>
+                            <tr></tr>
+
+                            <th rowspan="2" colspan="4"><a href="https://www.google.com/?hl=es">Obten mas informacion</a></th>
+                            <tr></tr>
+                            <th rowspan="2" colspan="4"><a href="https://www.google.com/?hl=es"><button>Enviar</button></a></th>
+                     </tr>
+                 </table>
+            </th>
+
+            <th rowspan="2" colspan="7">
+                <table border="3px" solid , BgColor="">
+                    <tr BgColor="Blue">
+                        <th rowspan="2" colspan="4">Historia</th>
+                        <tr></tr>
+
+                        <th rowspan="2"  colspan="4" ><img src="https://th.bing.com/th/id/R.971374884dc2ff52e4028e58eb2f19df?rik=qfRQrk0%2fXTnX8A&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2feTM%2foMR%2feTMoMRqTn.gif&ehk=Mf%2fQTwcHGbWxnF1Wx7gBQcWeEA0d1uFjyQTHqdqUY0g%3d&risl=&pid=ImgRaw&r=0" width="80px" height="40px"></a></th>
+                    
+                        <tr></tr>
+                        
+                            <th rowspan="2"  colspan="4" font-size="10px">Github fue desarrollado por Chris Wanstrath, P. J. Hyett, Tom Preston-Werner y Scott Chacon usando Ruby on Rails, y empezó en 2008.<a href="https://docs.github.com/es/apps/creating-github-apps/creating-github-apps/about-apps"></a></th>
+                            <tr></tr>
+
+                            <th rowspan="2" colspan="4"><a href="https://www.google.com/?hl=es">Obten mas informacion</a></th>
+                            <tr></tr>
+                            <th rowspan="2" colspan="4"><a href="https://www.google.com/?hl=es"><button>Enviar</button></a></th>
+                     </tr>
+                 </table>
+            </th>
+
+            <th rowspan="2" colspan="7">
+                <table border="3px" solid , BgColor="">
+                    <tr BgColor="Blue">
+                        <th rowspan="2" colspan="4">Video de apoyo</th>
+                        <tr></tr>
+
+                        <th ><img src="https://qualooapps.files.wordpress.com/2013/02/reproduccion-videos.png?w=560" width="150px" height="75px"></a></th></th>
+                        <tr>
+                            <th ><img src="https://www.tech-recipes.com/wp-content/uploads/youtube-airplay.png" width="150px" height="75px"></a></th></th>
+                        </tr>
+                        
+                     </tr>
+                     
+
+                 </table>
+            </th>
+         </tr>
+
+         <tr></tr>
+         <td rowspan="2" colspan="28">
+            <table>
+                
+                    <tr>
+                        <th rowspan="2" colspan="14">
+                        Direccion <br>
+                        Telefono <br>
+                        Whatsapp <br>
+                        PBX <br>
+                        </th>
+
+                        <th rowspan="" colspan="14">
+                            <img src="https://th.bing.com/th/id/R.9644757829cb70f677d9c62b78350d92?rik=rZ2xj0nwoT%2b%2bjQ&pid=ImgRaw&r=0" width="80px" height="40px"></a>
+                            <img src="https://th.bing.com/th/id/OIP.-ZirgQE5pr8e7htQWowJIgHaHa?pid=ImgDet&rs=1" width="80px" height="40px">
+                            <img src="https://1000logos.net/wp-content/uploads/2017/05/logo-YouTube.jpg" width="80px" height="40px">
+                            <img  src="https://th.bing.com/th/id/OIP.Sbs-M2-y31gNoj9n-IIeowHaHa?pid=ImgDet&rs=1" width="80px" height="40px">
+
+                        </th>
+                    </tr>
+                    
+                 
+            </table>
+
+            
+
+            Aviso legal: Las operaciones con instrumentos fnancieros o criptomonedas implican un elevado riesgo, incluyendo la pérdida parcial o total del capital invertido, y pueden no ser adecuadas 
+para todos los inversores. Los precios de las criptomonedas son extremadamente volátiles y pueden verse afectados por factores externos de tipo fnanciero, regulatorio o político. Operar 
+sobre márgenes aumenta los riesgos fnancieros.
+Antes de lanzarse a invertir en un instrumento fnanciero o criptomoneda, infórmese debidamente de los riesgos y costes asociados a este tipo operaciones en los mercados fnancieros. Fije 
+unos objetivos de inversión adecuados a su nivel de experiencia y su apetito por el riesgo y, siempre que sea necesario, busque asesoramiento profesional.
+Fusion Media quiere recordarle que la información contenida en este sitio web no se ofrece necesariamente ni en tiempo real ni de forma exacta. Los datos y precios de la web no siempre 
+proceden de operadores de mercado o bolsas, por lo que los precios podrían diferir del precio real de cualquier mercado. Son precios orientativos que en ningún caso deben utilizarse con 
+fnes bursátiles. Ni Fusion Media ni ninguno de los proveedores de los datos de esta web asumen responsabilidad alguna por las pérdidas o resultados perniciosos de sus operaciones 
+basados en su confanza en la información contenida en la web.
+Queda prohibida la total reproducción, modifcación, transmisión o distribución de los datos publicados en este sitio web sin la autorización previa por escrito de Fusion Media y/o del 
+proveedor de los mismos. Todos los derechos de propiedad intelectual están reservados a los proveedores y/o bolsa responsable de dichos los datos.
+Fusion Media puede recibir contraprestación económica de las empresas que se anuncian en la página según su interacción con éstas o con los anuncios que aquí se publican.
+Este aviso legal está traducido de su texto original en inglés, versión que prevalecerá en caso de conficto entre el texto original en inglés y su traducción al español
+
+         </td>
+
+    </table>     
+</body>
+</html>
